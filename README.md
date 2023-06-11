@@ -8,4 +8,4 @@ Dataset and baseline model architecture are taken from previous work (https://gi
 
 3) Go to http://127.0.0.1:80/docs to see all available methods of the API
 
-In pictures folder check screens how it looks like
+In pictures folder screens how server works are presented
