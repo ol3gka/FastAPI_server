@@ -18,4 +18,9 @@ B) Create virtual environment and activate it
 
 3) Go to http://127.0.0.1:80/docs to see all available methods of the API
 
+or run `query_example` in your IDE (e.g. vs code)
+
+or ping  server through Thunder Client (vs code): POST http://127.0.0.1:80/predict
+with JSON from json_post_query_example.txt
+
 In pictures folder screens how server works are presented
