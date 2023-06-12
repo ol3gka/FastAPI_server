@@ -23,4 +23,4 @@ or run `query_example.py` in your IDE (e.g. vs code)
 or ping  server through Thunder Client (vs code): POST http://127.0.0.1:80/predict
 with JSON from [json_post_query_example.txt](pictures/json_post_query_example.txt)
 
-In pictures folder screens how server works are presented
+In [pictures](pictures) folder screens how server works are presented
