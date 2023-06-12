@@ -1,12 +1,16 @@
 # FastAPI_server
 
 Dataset and baseline model architecture are taken from previous work (https://github.com/ol3gka/OTUS_Machine-Learning.-Advanced_2023)
-A) Create virtual environment and activate it
-1) `python -m venv env`
-2) `./env/Scripts/activate`
 
-B) Clone repo
-`git clone https://github.com/ol3gka/FastAPI_server.git`
+
+A) Clone repo
+1) `git clone https://github.com/ol3gka/FastAPI_server.git`
+
+B) Create virtual environment and activate it
+1) cd FastAPI_server
+2) `python -m venv env`
+3) `./env/Scripts/activate`
+
 С) Run Fast API server
 1) Build Docker image using `docker build . -t fastapi_ml_server_nikolaev`
 
